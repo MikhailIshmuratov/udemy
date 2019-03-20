@@ -23,4 +23,3 @@ appData.expense.expenseCost = (appData.expense.expenseCost1 + appData.expense.ex
 // alert(appData.expense.expenseMust + " : " + appData.expense.expenseCost + " рублей"); // вывод обязатетельных трат с текстом
 alert((budget - appData.expense.expenseCost) / 30); // итог
 
-
